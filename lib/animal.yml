@@ -198,45 +198,30 @@ chr_jobs:
 - {face_id: c91, job: あるぱか}
 - {face_id: c93, job: わらいかわせみ}
 - {face_id: c107, job: いぼいのしし}
+# ayumaruの追加分です。これでokでしょうか？エリアスが抜けていました。
 # ハナ
-- {face_id: c85, job: はな}
 - {face_id: c85, job: かみつきがめ}
 # シメオン
-- {face_id: c105, job: たらんちゅら}
 - {face_id: c105, job: うみねこ}
-- {face_id: c105, job: みつばいにん}
 # レオナルド
 - {face_id: c96,  job: せあかごけぐも}
-- {face_id: c96,  job: しんじゅくのはは}
 # オズワルド
 - {face_id: c98,  job: はしびろこう}
-- {face_id: c98,  job: きゃびあ}
 # クラリッサ
-- {face_id: c101,  job: らま}
-- {face_id: c101,  job: びくーな}
 - {face_id: c101,  job: すずらん}
-- {face_id: c101,  job: とりかぶと}
 # ヒュー
-- {face_id: c104,  job: おかぴ}
-- {face_id: c104,  job: となかい}
 - {face_id: c104,  job: みいら}
 # ブローリン
 - {face_id: c108, job: ぶろっこりー}
-- {face_id: c108, job: りすざる}
 # ピエール
 - {face_id: c88, job: ゆでたまご}
-- {face_id: c88, job: りょうりにん}
 # ブレンダ
-- {face_id: c84, job: かれき}
-- {face_id: c84, job: ぬけがら}
 - {face_id: c84, job: しろへび}
 # ラディスラヴァ
 - {face_id: c109, job: しろちゃとら}
-- {face_id: c109, job: まんちかん}
 # ウォーレン
 - {face_id: c102, job: さんた}
-- {face_id: c102, job: もみのき}
+# エリアス
+- {face_id: c87, job: りゅう}
 # ナンシー
-- {face_id: c103, job: しーらかんす}
-- {face_id: c103, job: めるるーさ}
 - {face_id: c103, job: おうむがい}
